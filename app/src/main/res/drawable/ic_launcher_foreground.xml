@@ -1,0 +1,73 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Palette drop shadow -->
+    <path
+        android:fillColor="#33000000"
+        android:pathData="M52,22 C34,22 24,34 24,52 C24,70 34,84 52,84 C56,84 60,82 62,79 C64,76 67,74 72,74 C78,74 84,69 84,62 C84,59 83,56 81,54 C83,50 84,46 84,42 C84,30 70,22 52,22 Z" />
+    
+    <!-- Wooden Palette Base -->
+    <path
+        android:fillColor="#FFF6E0"
+        android:pathData="M50,20 C32,20 22,32 22,50 C22,68 32,82 50,82 C54,82 58,80 60,77 C62,74 65,72 70,72 C76,72 82,67 82,60 C82,57 81,54 79,52 C81,48 82,44 82,40 C82,28 68,20 50,20 Z" />
+
+    <!-- Palette Thumb Hole -->
+    <path
+        android:fillColor="#E6C898"
+        android:pathData="M70,58m-5,0a5,5 0 1,0 10,0a5,5 0 1,0 -10,0" />
+
+    <!-- Paint blob: Red/Coral -->
+    <path
+        android:fillColor="#FF3366"
+        android:pathData="M34,36m-6,0a6,6 0 1,0 12,0a6,6 0 1,0 -12,0" />
+
+    <!-- Paint blob: Golden Yellow -->
+    <path
+        android:fillColor="#FFD200"
+        android:pathData="M48,29m-6,0a6,6 0 1,0 12,0a6,6 0 1,0 -12,0" />
+
+    <!-- Paint blob: Neon Green -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M65,33m-5,0a5,5 0 1,0 10,0a5,5 0 1,0 -10,0" />
+
+    <!-- Paint blob: Cyan Blue -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M31,52m-6,0a6,6 0 1,0 12,0a6,6 0 1,0 -12,0" />
+
+    <!-- Paint blob: Purple -->
+    <path
+        android:fillColor="#AA00FF"
+        android:pathData="M39,68m-5.5,0a5.5,5.5 0 1,0 11,0a5.5,5.5 0 1,0 -11,0" />
+
+    <!-- Paintbrush Handle -->
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M56,76 L85,47 C87,45 87,42 85,40 L82,37 C80,35 77,35 75,37 L46,66 Z" />
+
+    <!-- Paintbrush Ferrule (Metal band) -->
+    <path
+        android:fillColor="#CFD8DC"
+        android:pathData="M49,63 L45,67 L49,71 L53,67 Z" />
+
+    <!-- Paintbrush Bristles -->
+    <path
+        android:fillColor="#424242"
+        android:pathData="M46,66 L40,72 C38,74 38,76 40,78 L42,80 C44,82 46,82 48,80 L54,74 Z" />
+
+    <!-- Paintbrush Tip with Wet Blue Paint -->
+    <path
+        android:fillColor="#00B0FF"
+        android:pathData="M42,74 L37,79 C36,80 37,82 39,83 L43,81 C44,80 44,78 44,76 Z" />
+
+    <!-- Little Sparkle Stars -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M78,22 L79,25 L82,26 L79,27 L78,30 L77,27 L74,26 L77,25 Z" />
+    <path
+        android:fillColor="#FFF176"
+        android:pathData="M23,65 L24,67 L26,68 L24,69 L23,71 L22,69 L20,68 L22,67 Z" />
+</vector>

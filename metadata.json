@@ -1,0 +1,6 @@
+{
+  "name": "Kids Paint & Draw",
+  "description": "A delightful, feature-packed kids drawing and coloring app with magic brushes, stamps, coloring pages, and a showcase gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
